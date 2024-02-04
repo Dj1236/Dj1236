@@ -1,4 +1,6 @@
 # 💫 About Me: HI I Am Dhairya Joshi . <img src = "https://github.com/Dj1236/Dj1236/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 🔭 I’m currently working on frontend-mastery.<br>👯 I’m looking to collaborate on some niche websites making.<br>🤝 I’m looking for help with backend work.<br>🌱 I’m currently learning nodeJs , Expressjs.<br>💬 Ask me about React , Es-6, Css-3 , tailwind , Html-5. <br>⚡ Fun fact I am coder.
 
 
