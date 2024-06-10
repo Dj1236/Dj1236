@@ -16,6 +16,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=dj1236&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dj1236&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dj1236&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align = "center">
+  
+[![Dhairya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dj1236&bg_color=000000&color=fa7900&line=fb8c1d&point=fb3b02&area=true&hide_border=true)](https://github.com/Dj1236)
+  
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
